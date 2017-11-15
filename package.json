@@ -1,0 +1,11 @@
+{
+  "name": "my-pizza-store",
+  "version": "1.0.0",
+  "description": "AngularJS app to practice Unit and End2End testing using Jasmine, Karma and Grunt.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thales César Pires",
+  "license": "ISC"
+}
