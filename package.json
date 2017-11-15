@@ -9,6 +9,7 @@
   "author": "Thales César Pires",
   "license": "ISC",
   "devDependencies": {
+    "grunt": "^1.0.1",
     "grunt-cli": "^1.2.0",
     "grunt-karma": "^2.0.0",
     "jasmine": "^2.8.0",
