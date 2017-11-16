@@ -9,6 +9,7 @@
   "author": "Thales César Pires",
   "license": "ISC",
   "devDependencies": {
+    "angular-dev-server": "^0.2.0",
     "grunt": "^1.0.1",
     "grunt-cli": "^1.2.0",
     "grunt-karma": "^2.0.0",
@@ -16,6 +17,8 @@
     "karma": "^1.7.1",
     "karma-chrome-launcher": "^2.2.0",
     "karma-firefox-launcher": "^1.0.1",
-    "karma-jasmine": "^1.1.0"
+    "karma-jasmine": "^1.1.0",
+    "protractor": "^5.2.0",
+    "webdriver-manager": "^12.0.6"
   }
 }
